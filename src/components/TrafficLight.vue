@@ -26,7 +26,7 @@
       const lights = [
         {
           name: 'red',
-          timing: 4
+          timing: 10
         },
         {
           name: 'yellow',
@@ -34,7 +34,7 @@
         },
         {
           name: 'green',
-          timing: 5
+          timing: 15
         }
       ];
 
